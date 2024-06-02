@@ -1,0 +1,21 @@
+{
+    "name": "NexusAdmin",
+    "tree": {
+        "$path": "./MainModule.lua",
+        "NexusAdmin": {
+            "$path": "./src",
+            "NexusInstance": {
+                "$path": "./module/Nexus-Instance/"
+            },
+            "NexusButton": {
+                "$path": "./module/Nexus-Button/"
+            },
+            "NexusFeatureFlags": {
+                "$path": "./module/Nexus-Feature-Flags/"
+            },
+            "Cmdr": {
+                "$path": "./module/Cmdr/"
+            }
+        }
+    }
+}
